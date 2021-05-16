@@ -10,6 +10,6 @@ Dana’s webpage and dynamic table are working as intended, but she wanted to pr
 
 ## Results
 
-### UFO sightings information Webpage
+##### UFO sightings information Webpage
 https://sb-da.github.io/UFO-Sightings-with-JavaScript/
 

@@ -13,3 +13,6 @@ https://sb-da.github.io/UFO-Sightings-with-JavaScript/
 
 ## Results
 
+![image](https://user-images.githubusercontent.com/78935551/118384968-b4740d80-b5d8-11eb-8ef6-36f89fe65b17.png)
+
+

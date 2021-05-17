@@ -12,8 +12,11 @@ Dana’s webpage and dynamic table are working as intended, but she wanted to pr
 https://sb-da.github.io/UFO-Sightings-with-JavaScript/
 
 ## Results
+The User can search using the Date criteria and check for details as shown in the image below.
 
 ![image](https://user-images.githubusercontent.com/78935551/118384985-e7b69c80-b5d8-11eb-8a86-d3ce91e3c7ed.png)
+
+
 
 
 
